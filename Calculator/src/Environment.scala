@@ -4,5 +4,5 @@
 package object Environment {
 
   type Environment = String => Int
-  
+
 }
